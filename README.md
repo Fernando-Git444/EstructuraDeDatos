@@ -1,4 +1,4 @@
-# EstructuraDeDatos
+# Estructura de Datos
 ## En este repositorio se encontraran todas las actividades de la materia
 
 ### Fernando Vega Negrete 1224100720.fvn@gmail.com
