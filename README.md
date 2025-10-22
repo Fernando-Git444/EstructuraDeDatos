@@ -22,4 +22,4 @@
 ## Ejercicios Practicos
 | Nombre         | Ejercicio      |
 |----------------|----------------|
-|Ejercicios Practicos de Listas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/58613d05af14f14a5c3e71388dd301a76918c494/Codigos_Ejercicios_Practicos/Ejercicios%20Practicos%20de%20Listas)|
+|Ejercicios Practicos de Listas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/a3723a8147acf22aa307a31b9ac97ce2f74fb14f/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Listas)|
