@@ -19,6 +19,7 @@
 |U2ACT3 Práctica Manual y Algorítmica Lista|[U2ACT3 Práctica Manual y Algorítmica Lista.pdf](https://github.com/user-attachments/files/22993735/U2ACT3.Practica.Manual.y.Algoritmica.Lista.pdf)|
 |U2ACT2 Especificación de la Pila|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/a3723a8147acf22aa307a31b9ac97ce2f74fb14f/Codigos_Ejercicios_Guiados_Unidad_2/U2ACT2%20Especificaci%C3%B3n%20de%20la%20Pila)|
 |Nearpod_Pilas_en_Java|[Nearpod_Pilas_en_Java.pdf](https://github.com/user-attachments/files/23043626/Nearpod_Pilas.pdf)|
+|Actividad en clase Colas y Menú|[Ver codigo]()|
 
 ## Ejercicios Practicos
 | Nombre         | Ejercicio      |
