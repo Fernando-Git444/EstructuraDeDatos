@@ -21,9 +21,7 @@
 |Nearpod_Pilas_en_Java|[Nearpod_Pilas_en_Java.pdf](https://github.com/user-attachments/files/23043626/Nearpod_Pilas.pdf)|
 |Actividad en clase Colas y Menú|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/42e466ca56a4e5acc6202d6befc312591d28ffed/Codigos_Ejercicios_Guiados_Unidad_2/Actividad%20en%20clase%20Colas%20y%20Menu)|
 |NearPod_Colas_en_Java|[NearPod_Colas_en_Java.pdf](https://github.com/user-attachments/files/23146313/NearPod_Colas_en_Java.pdf)|
-| U2ACT1 Ejercicio de Ordenamiento por Intercambio con Tarjetas|[Ordenamiento_Burbuja.pdf](https://github.com/user-attachments/files/23197377/Ordenamiento_Burbuja.pdf)
-|
-
+| U2ACT1 Ejercicio de Ordenamiento por Intercambio con Tarjetas|[Ordenamiento_Burbuja.pdf](https://github.com/user-attachments/files/23197377/Ordenamiento_Burbuja.pdf)|
 ## Ejercicios Practicos
 | Nombre         | Ejercicio      |
 |----------------|----------------|
