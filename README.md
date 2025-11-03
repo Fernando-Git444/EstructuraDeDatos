@@ -25,4 +25,5 @@
 ## Ejercicios Practicos
 | Nombre         | Ejercicio      |
 |----------------|----------------|
-|Ejercicios Practicos de Listas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/9890919530743a30404be0b59b487e713e35a417/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Listas)|
+|Ejercicios Practicos de Listas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/de8fb2f80dac9ec57fa2f6a14db84d54a034fb86/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Listas/ejerciciosPracticosDeListas)|
+|Ejercicios Practicos de Pilas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/de8fb2f80dac9ec57fa2f6a14db84d54a034fb86/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Pilas/ejerciciosPracticosDePilas)|
