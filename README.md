@@ -32,4 +32,4 @@
 
 | Nombre         | Ejercicio      |
 |----------------|----------------|
-|Ejercicio Guiado Swing|[Ejercicio Guiado Swing.pdf](https://github.com/user-attachments/files/23555829/Ejercicio.Guiado.Swing.pdf)|
+|Ejercicio Guiado Swing|[Ejercicio Guiado Swing.pdf](https://github.com/user-attachments/files/23556064/Ejercicio.Guiado.Swing.pdf)|
