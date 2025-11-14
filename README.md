@@ -5,9 +5,6 @@
 ### GTID141 1224100720
 
 ## Unidad 2
-### Enlaces
-#### 🧭 [Ejercicios Guiados](#ejercicios-guiados)
-#### 🧪 [Ejercicios Prácticos](#ejercicios-practicos)
 
 ## Ejercicios Guiados
 
