@@ -28,3 +28,11 @@
 |Ejercicios Practicos de Listas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/de8fb2f80dac9ec57fa2f6a14db84d54a034fb86/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Listas/ejerciciosPracticosDeListas)|
 |Ejercicios Practicos de Pilas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/de8fb2f80dac9ec57fa2f6a14db84d54a034fb86/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Pilas/ejerciciosPracticosDePilas)|
 |Ejercicios Practicos de Colas|[Ver codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/4ee2548c5710008aca52d5dc55b7b70338a9c98d/Codigos_Ejercicios_Practicos_Unidad_2/Ejercicios%20Practicos%20de%20Cola/ejerciciosPracticosDeColas)|
+
+## Unidad 2
+
+## Ejercicios Guiados
+
+| Nombre         | Ejercicio      |
+|----------------|----------------|
+|Ejercicio Guiado Swing|[Ejercicio Guiado Swing.pdf](https://github.com/user-attachments/files/23555829/Ejercicio.Guiado.Swing.pdf)|
