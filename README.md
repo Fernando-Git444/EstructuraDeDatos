@@ -28,6 +28,12 @@
 
 ## Unidad 3
 
+## Ejercicios Practicos
+
+| Nombre         | Ejercicio      |
+|----------------|----------------|
+|Identificación de Elementos de un Árbol|[Identificación de Elementos de un Árbol.pdf](https://github.com/user-attachments/files/23683979/Identificacion.de.Elementos.de.un.Arbol.pdf)|
+
 ## Ejercicios Guiados
 
 | Nombre         | Ejercicio      |
