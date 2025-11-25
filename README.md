@@ -40,3 +40,4 @@
 |----------------|----------------|
 |Ejercicio Guiado Swing|[Ejercicio Guiado Swing.pdf](https://github.com/user-attachments/files/23556064/Ejercicio.Guiado.Swing.pdf)|
 |Conceptos de Arboles (Nearpod)|[Conceptos de Arboles.pdf](https://github.com/user-attachments/files/23613660/Conceptos.de.Arboles.pdf)|
+|Ejercicio Guiado – Implementación de un árbol Binario|[Ejercicio Guiado – Implementación de un árbol Binario.pdf](https://github.com/user-attachments/files/23755754/Ejercicio.Guiado.Implementacion.de.un.arbol.Binario.pdf), [Codigo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/f112d38ec1d419a8780ab0c463466481df549e1d/Codigos_Ejercicios_Guiados_Unidad_3/arboles)|
