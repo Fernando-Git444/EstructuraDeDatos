@@ -45,4 +45,5 @@
 | Nombre         | Ejercicio      |
 |----------------|----------------|
 |Identificación de Elementos de un Árbol|[Identificación de Elementos de un Árbol.pdf](https://github.com/user-attachments/files/23683979/Identificacion.de.Elementos.de.un.Arbol.pdf)|
+|Ejercicios Prácticos con Swing|[Ver codigo y video explicativo](https://github.com/Fernando-Git444/EstructuraDeDatos/tree/ad935be338574acc733a152e867b36c3aa5bd11a/Codigos_Ejercicios_Practicos_Unidad_3/Ejercicios%20Pr%C3%A1cticos%20con%20Swing)|
 
