@@ -6,6 +6,9 @@ import java.awt.event.*;
 import java.util.*;
 
 /**
+ * @author Fernando Vega Negrete 1224100720.fvn@gmail.com
+ * GTID141 1224100720
+ *
  * Aplicación de Gestión de Biblioteca Personal usando Conjuntos (Set) de Java
  * Demuestra el uso de HashSet, TreeSet y operaciones de conjuntos
  * 
@@ -16,8 +19,6 @@ import java.util.*;
  * - Año de publicación
  * - ISBN
  * 
- * @author Ejercicio 03 - Estructuras de Datos
- * @version 1.0
  */
 public class AplicacionBiblioteca extends JFrame {
     
